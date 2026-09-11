@@ -1,10 +1,15 @@
 # Hello, I'm Ethan
 
 I am a 17 year old programmer and a music producer.
+
 I build games, tools, and music mostly for the fun of figuring out how things work under the hood.
+
 Self-taught for 6+ years.
+
 Newer projects will usually be made in C#, my current main language.
+
 Currently building a custom JRPG engine entirely in code using C#.
+
 Composed the official trailer track for Friday Night Funkin' mobile release, and beta tested the game pre-launch.
 
 ## Languages & Tools
